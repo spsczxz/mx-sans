@@ -6,6 +6,7 @@ because fonts are cool, and someone was asking.
 
 ### how to install?
 windows: clone the repo > extract > select all 4 fonts > (windows 11: shift) + right click > install.
+
 mac: drag and drop all 4 into the "font book" app, or double tap + install.
 
 ## legal
